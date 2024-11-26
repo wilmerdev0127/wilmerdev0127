@@ -27,9 +27,10 @@ With a strong foundation in frontend and backend development, I am prepared to h
 I pride myself on my ability to quickly adapt to new technologies and frameworks, which allows me to deliver high-quality, innovative solutions that meet the unique needs of my clients. Whether you need help building responsive user interfaces, implementing scalable backend architectures, or integrating cutting-edge cloud services, I am confident in my ability to contribute to the success of your project.</br>
 </br>
 I am passionate about staying up to date on the latest industry trends and best practices, ensuring I can deliver the most efficient and effective solutions.</br>
-I am committed to open communication, collaborative problem solving, and delivering projects on time and on budget.</br>
-If you are looking for a versatile and skilled full-stack developer to join your team, I would be happy to discuss how I can contribute to your next project.</br>
 </br>
+I am committed to open communication, collaborative problem solving, and delivering projects on time and on budget.</br>
+</br>
+If you are looking for a versatile and skilled full-stack developer to join your team, I would be happy to discuss how I can contribute to your next project.</br>
 Don't hesitate to contact me.</br>
 <br/>
 <hr>
