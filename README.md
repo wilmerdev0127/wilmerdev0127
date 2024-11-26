@@ -13,7 +13,7 @@
 </p>
 
 I am Wilmer, a seasoned full-stack developer. I have a diverse skill set, including expertise in the following technologies and frameworks:<br/>
-</br>
+
 - Frontend: HTML, CSS, JavaScript, React, Next.js, Vue.js, Astro, Material UI, Tailwind CSS.
 - Backend: PHP, Laravel, Python, Django, Flask, Ruby on Rails, Node.js, Golang.
 - Databases: SQL, NoSQL, MongoDB, PostgreSQL, Firebase.
@@ -21,7 +21,7 @@ I am Wilmer, a seasoned full-stack developer. I have a diverse skill set, includ
 - DevOps: Docker, Kubernetes, CI/CD.
 - Other Technologies: Squarespace, Webflow, WordPress, Shopify, Headless CMS.
 - AI/ML: OpenAI, Pytorch, Tensorflow, Keras, OpenCV, Llama.
-</br>
+  
 With a strong foundation in frontend and backend development, I am prepared to handle a wide range of projects, from building dynamic web applications to developing robust server-side solutions. My experience spans multiple domains, including eCommerce, data analytics, and AI/ML applications.</br>
 </br>
 I pride myself on my ability to quickly adapt to new technologies and frameworks, which allows me to deliver high-quality, innovative solutions that meet the unique needs of my clients. Whether you need help building responsive user interfaces, implementing scalable backend architectures, or integrating cutting-edge cloud services, I am confident in my ability to contribute to the success of your project.</br>
